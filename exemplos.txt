@@ -1,0 +1,17 @@
+> str(str)
+> getwd()
+[1] "/Users/jorgearacaty"
+> setwd("/Users/jorgearacaty/Desktop/R-scripts")
+> getwd()
+[1] "/Users/jorgearacaty/Desktop/R-scripts"
+> dir()
+[1] "csvQuina.csv"
+> read.csv("csvQuina.csv")
+     X25 X45 X60 X76 X79
+1     13  30  58  63  64
+2      5  15  32  33  48…
+> source("myfunction.R")
+> ls()
+[1] "myfunction" "second"  
+> second(4)
+[1] 5.917538
