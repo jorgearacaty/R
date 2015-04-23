@@ -15,7 +15,7 @@ onde R é o diretório a ser clonado.
 # TESTE
 abre o README.md no mac.
 edita qualquer coisa.
-MacBook-Air-de-Jorge:R jorgearacaty$ git add  README.md
+MacBook-Air-de-Jorge:R jorgearacaty$ git add  README.md ou git add .    ->para tudo
 MacBook-Air-de-Jorge:R jorgearacaty$ git commit -m "first commit porra"
 MacBook-Air-de-Jorge:R jorgearacaty$ git push -u origin master
 
